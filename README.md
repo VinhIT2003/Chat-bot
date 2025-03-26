@@ -23,15 +23,29 @@ Dự án chatbot sử dụng các công nghệ và công cụ sau:
 
 ## 📚 Liên Kết Với Khóa Học
 
-Khóa học **LLM Engineering - Master AI and LLMs** là nền tảng giúp tôi xây dựng chatbot này. Khóa học cung cấp những kiến thức cơ bản và nâng cao về các mô hình LLMs, API AI và các công cụ phát triển chatbot, bao gồm:
+Khóa học **LLM Engineering - Master AI and LLMs** là nền tảng giúp tôi xây dựng chatbot này. Khóa học cung cấp những kiến thức cơ bản và nâng cao về các mô hình LLMs, API AI và các công cụ phát triển chatbot, bao gồm:S
 - ✅ **Cài đặt và sử dụng Ollama** để chạy các mô hình Llama3.2.
 - ✅ **Sử dụng Google Colab** để triển khai các mô hình AI với GPU miễn phí.
 - ✅ **Tích hợp API của OpenAI** để kết nối và làm việc với các mô hình tiên tiến.
+- VV...
 
-Khóa học được giảng dạy bởi **Edward Donner**, người hướng dẫn chi tiết về cách xây dựng các dự án AI thực tế, bao gồm cả chatbot như dự án này. Bạn có thể tìm hiểu thêm về khóa học tại https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=ST22MT240325G3.
-Chúng tôi đã tải quả trình giảng và đã đẩy lên gg drive:https://drive.google.com/drive/folders/1MWpev-S58MOq1XFdPjgDUXiSICNmMDdE?usp=drive_link
-Và source code của quá trình học cũng được chúng tôi đẩy lên gg drive: https://drive.google.com/drive/folders/1JkStWbOEbkwA1nYH8MPGntms2sjhDGgU?usp=drive_link
-Đây là quá trình chúng tôi học tập và tìm hiểu khóa học: https://1drv.ms/o/c/3044222ea3cb8333/Euao2b2b8XZIn4o8Wys-IvQBHXszPWTGnIWrgLcR2ClwNw?e=0th1d8
+## 🎓 Khóa Học LLM Engineering - Master AI and Large Language Models
+
+Khóa học này được giảng dạy bởi **Edward Donner**, người đã hướng dẫn chi tiết về cách xây dựng các dự án **AI thực tế**, bao gồm cả **chatbot** như dự án này. Bạn có thể tìm hiểu thêm về khóa học tại [LLM Engineering - Master AI and Large Language Models trên Udemy](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=ST22MT240325G3).
+
+### 📚 Tài Nguyên Học Tập
+
+Chúng tôi đã tải **quá trình giảng dạy** và đã đẩy lên Google Drive để bạn có thể dễ dàng truy cập và tham khảo:
+- [Quá trình giảng dạy trên Google Drive](https://drive.google.com/drive/folders/1MWpev-S58MOq1XFdPjgDUXiSICNmMDdE?usp=drive_link)
+
+Bên cạnh đó, chúng tôi cũng đã đẩy **source code** của quá trình học lên Google Drive:
+- [Source code của quá trình học trên Google Drive](https://drive.google.com/drive/folders/1JkStWbOEbkwA1nYH8MPGntms2sjhDGgU?usp=drive_link)
+
+### 📖 Quá Trình Học Tập và Tìm Hiểu Khóa Học
+
+Đây là quá trình chúng tôi học tập và tìm hiểu khóa học, bạn có thể tham khảo thêm thông tin tại liên kết dưới đây:
+- [Quá trình học tập trên OneDrive](https://1drv.ms/o/c/3044222ea3cb8333/Euao2b2b8XZIn4o8Wys-IvQBHXszPWTGnIWrgLcR2ClwNw?e=0th1d8)
+
 ## 📖 Tài Nguyên Học Tập
 
 Khóa học này có tài nguyên học tập bao gồm các bài giảng, tài liệu, và mã nguồn mẫu cho các dự án.
