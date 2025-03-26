@@ -36,7 +36,7 @@ Khóa học này được giảng dạy bởi **Edward Donner**, người đã h
 ### 📚 Tài Nguyên Học Tập
 
 Chúng tôi đã tải **quá trình giảng dạy** và đã đẩy lên Google Drive để bạn có thể dễ dàng truy cập và tham khảo:
-- [Quá trình giảng dạy trên Google Drive](https://drive.google.com/drive/folders/1MWpev-S58MOq1XFdPjgDUXiSICNmMDdE?usp=drive_link)
+- [Quá trình giảng dạy trên Google Drive](https://drive.google.com/drive/folders/1kNusD7upEAoikSDiWyhgB2GGYMjr_CNG?usp=drive_link)
 
 Bên cạnh đó, chúng tôi cũng đã đẩy **source code** của quá trình học lên Google Drive:
 - [Source code của quá trình học trên Google Drive](https://drive.google.com/drive/folders/1JkStWbOEbkwA1nYH8MPGntms2sjhDGgU?usp=drive_link)
