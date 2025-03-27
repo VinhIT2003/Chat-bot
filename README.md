@@ -20,7 +20,14 @@ Dự án chatbot sử dụng các công nghệ và công cụ sau:
 - **Google Colab**: Môi trường tính toán đám mây giúp triển khai các mô hình AI mạnh mẽ mà không cần phần cứng đắt tiền.
 - **OpenAI API**: Để tương tác với các mô hình tiên tiến và tạo các phản hồi từ chatbot.
 - **Python**: Ngôn ngữ lập trình chính để triển khai chatbot.
+ 🚀 Cài Đặt & Sử Dụng
 
+    ### Yêu Cầu Hệ Thống:
+    - Python 3.10+  
+    - **pip** (trình quản lý thư viện Python)  
+    - GPU (khuyến nghị) để tăng tốc xử lý  
+    
+ 
 ## 📚 Liên Kết Với Khóa Học
 
 Khóa học **LLM Engineering - Master AI and LLMs** là nền tảng giúp tôi xây dựng chatbot này. Khóa học cung cấp những kiến thức cơ bản và nâng cao về các mô hình LLMs, API AI và các công cụ phát triển chatbot, bao gồm:S
