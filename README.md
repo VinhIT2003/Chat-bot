@@ -2,7 +2,7 @@
 
 ## 🌟 Giới Thiệu
 
-Chào mừng bạn đến với dự án xây dựng **Chatbot AI**! Đây là một chatbot được phát triển dựa trên các mô hình ngôn ngữ lớn (**LLMs**) như **Ollama** và **Llama3.2**, với mục tiêu cung cấp một giải pháp trò chuyện thông minh cho người dùng. Dự án này được xây dựng dựa trên các kỹ thuật và công cụ được học trong khóa học **LLM Engineering - Master AI and LLMs**, một khóa học 8 tuần về phát triển và ứng dụng các mô hình AI tiên tiến.
+Chào mừng bạn đến với dự án xây dựng **Chatbot AI**! Đây là một chatbot được phát triển dựa trên các mô hình ngôn ngữ lớn (**LLMs**) như **Ollama** và **Llama3.2**, với mục tiêu cung cấp một giải pháp trò chuyện thông minh cho người dùng. Dự án này được xây dựng dựa trên các kỹ thuật và công cụ được học trong khóa học **LLM Engineering - Master AI and LLMs**,khóa học bao gồm 8 tuần về phát triển và ứng dụng các mô hình AI tiên tiến.
 
 ## 🎯 Mục Tiêu Của Dự Án
 
@@ -48,7 +48,7 @@ Bên cạnh đó, chúng tôi cũng đã đẩy **source code** của quá trìn
 
 ## 📖 Tài Nguyên Học Tập
 
-Khóa học này có tài nguyên học tập bao gồm các bài giảng, tài liệu, và mã nguồn mẫu cho các dự án.
+Khóa học này có tài nguyên học tập bao gồm các bài giảng; tài liệu; và mã nguồn mẫu cho các dự án.
 
 Các mô hình và API được sử dụng trong dự án chatbot sẽ giúp bạn hiểu rõ hơn về cách ứng dụng AI vào công việc thực tế.
 
