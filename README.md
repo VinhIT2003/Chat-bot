@@ -35,6 +35,17 @@ Khóa học **LLM Engineering - Master AI and LLMs** là nền tảng giúp tôi
 - ✅ **Sử dụng Google Colab** để triển khai các mô hình AI với GPU miễn phí.
 - ✅ **Tích hợp API của OpenAI** để kết nối và làm việc với các mô hình tiên tiến.
 - VV...
+### 🔍 Những kiến thức quan trọng trong khóa học:  
+- ✅ **Hiểu sâu về LLMs** – Nguyên lý hoạt động, cách huấn luyện và tinh chỉnh mô hình.  
+- ✅ **Cài đặt và sử dụng Ollama** để chạy các mô hình **Llama3.2** một cách tối ưu.  
+- ✅ **Tích hợp OpenAI API** để làm việc với các mô hình AI tiên tiến như **GPT-4**.  
+- ✅ **Xây dựng và triển khai chatbot AI** sử dụng **Python, Streamlit và Flask**.  
+- ✅ **Tối ưu hóa hiệu suất chatbot** bằng cách giảm độ trễ và cải thiện khả năng phản hồi.  
+- ✅ **Xử lý ngữ nghĩa và ngữ cảnh** trong hội thoại thực tế.  
+- ✅ **Kết nối với cơ sở dữ liệu** để chatbot có thể lưu trữ và truy xuất thông tin người dùng.  
+- ✅ **Tích hợp Google Colab** để triển khai mô hình với **GPU miễn phí**.  
+- ✅ **Ứng dụng Vector Database** (**FAISS, ChromaDB**) để cải thiện trí nhớ chatbot.  
+- ✅ **Bảo mật chatbot** – Ngăn chặn tấn công injection và đảm bảo quyền riêng tư dữ liệu.  
 
 ## 🎓 Khóa Học LLM Engineering - Master AI and Large Language Models
 
