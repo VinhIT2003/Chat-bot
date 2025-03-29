@@ -59,10 +59,7 @@ Chúng tôi đã tải **quá trình giảng dạy** và đã đẩy lên Google
 Bên cạnh đó, chúng tôi cũng đã đẩy **source code** của quá trình học lên Google Drive:
 - [Source code của quá trình học trên Google Drive](https://drive.google.com/drive/folders/1JkStWbOEbkwA1nYH8MPGntms2sjhDGgU?usp=drive_link)
 
-### 📖 Quá Trình Học Tập và Tìm Hiểu Khóa Học
 
-Đây là quá trình chúng tôi học tập và tìm hiểu khóa học, bạn có thể tham khảo thêm thông tin tại liên kết dưới đây:
-- [Quá trình học tập trên OneDrive](https://1drv.ms/o/c/3044222ea3cb8333/Euao2b2b8XZIn4o8Wys-IvQBHXszPWTGnIWrgLcR2ClwNw?e=0th1d8)
 
 ## 📖 Tài Nguyên Học Tập
 
