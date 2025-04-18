@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build with g++",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+          "-std=c++17",
+          "-g",
+          "optimized.cpp",
+          "-o",
+          "optimized.exe"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"]
+      }
+    ]
+  }
+  
