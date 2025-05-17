@@ -4,10 +4,22 @@
 ### 📂 Cấu trúc thư mục  
 - **`Report Quá trình tìm hiểu về khóa học LLM`**: Báo cáo tổng quan quá trình học ở 2 tuần 3 và 8 .  
 - **`Report code có trong quá trình học`**: Ghi lại các đoạn code trong quá trình học tập.  
-  - 📁 `Report code week3`  
-  - 📁 `Report code week8`  
+  - 📁 `Report code week1`  
+  - 📁 `Report code week2`
+  - 📁 `Report code week3`
+  - 📁 `Report code week4`
+  - 📁 `Report code week5`
+  - 📁 `Report code week6`
+  - 📁 `Report code week7`
+  - 📁 `Report code week8`
 - **`Source code quá trình học`**: Chứa mã nguồn từ các bài tập, dự án thực hành.  
-  - 📁 `source code week3`  
+  - 📁 `source code week1`
+  - 📁 `source code week2`
+  - 📁 `source code week3`
+  - 📁 `source code week4`
+  - 📁 `source code week5`
+  - 📁 `source code week6`
+  - 📁 `source code week7`    
   - 📁 `source code week8`  
 ### 📖 Quá Trình Học Tập và Tìm Hiểu Khóa Học
 
