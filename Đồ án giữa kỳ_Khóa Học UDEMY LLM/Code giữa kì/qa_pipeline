@@ -1,0 +1,15 @@
+digraph {
+	Q [label="User Question"]
+	E [label="Embedding:
+Encode câu hỏi thành vector"]
+	V [label="Vector Search:
+Tìm các đoạn tài liệu liên quan"]
+	L [label="LLM (Prompting):
+Đưa tài liệu vào cùng prompt
+→ sinh câu trả lời chính xác"]
+	A [label="Answer to User"]
+	Q -> E [label="↓"]
+	E -> V [label="↓"]
+	V -> L [label="↓"]
+	L -> A [label="↓"]
+}

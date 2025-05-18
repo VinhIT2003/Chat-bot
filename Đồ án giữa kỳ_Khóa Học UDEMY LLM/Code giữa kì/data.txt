@@ -1,0 +1,3 @@
+Học máy là một lĩnh vực của trí tuệ nhân tạo sử dụng các kỹ thuật thống kê để giúp hệ thống máy tính học từ dữ liệu.
+Học sâu là một nhánh của học máy, sử dụng mạng nơ-ron với nhiều lớp.
+Xử lý ngôn ngữ tự nhiên là một lĩnh vực của AI tập trung vào việc giúp máy tính hiểu văn bản và ngôn ngữ nói.
